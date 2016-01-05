@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Harman\Downloads\Scheduler2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Harman\Downloads\Scheduler2\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-0e5df9d46b652d11cd24bdda822786cb9b6cd7c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Harman\Downloads\Scheduler2\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-bd0538de248f509db95f7bf279acd471bb3a61e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\Downloads\Scheduler2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Harman\Downloads\Scheduler2\app\build\intermediates\pre-dexed\debug\classes-9d9f99c506926676839272f7a94f8fcdd8689152.jar" />
+    </item>
+
+</items>
